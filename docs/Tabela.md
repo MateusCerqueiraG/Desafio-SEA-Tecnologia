@@ -18,7 +18,6 @@ Validar se a aplicação de **gerenciamento de funcionários e EPIs** está ader
 | Casos de teste executados | 19 |
 | ✅ Aprovados | 6 (31,6%) |
 | ❌ Reprovados | 13 (68,4%) |
-| Bugs documentados | 18 |
 | Bugs críticos | 2 |
 
 **CTs Aprovados:** CT-06, CT-07, CT-08, CT-10, CT-11, CT-16 <br>
