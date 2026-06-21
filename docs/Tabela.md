@@ -21,7 +21,7 @@ Validar se a aplicação de **gerenciamento de funcionários e EPIs** está ader
 | Bugs documentados | 18 |
 | Bugs críticos | 2 |
 
-**CTs Aprovados:** CT-06, CT-07, CT-08, CT-10, CT-11, CT-16
+**CTs Aprovados:** CT-06, CT-07, CT-08, CT-10, CT-11, CT-16 <br>
 **CTs Reprovados:** CT-01, CT-02, CT-03, CT-04, CT-05, CT-09, CT-12, CT-13, CT-14, CT-15, CT-17, CT-18, CT-19
 
 ---
